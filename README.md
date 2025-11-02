@@ -82,3 +82,7 @@ Our vision is to create a decentralized, transparent, and accessible NFT gallery
 
 **Built with Soroban SDK on Stellar Network** | **Version 1.0** | **License: MIT**
 ## Contract Details
+CCR3CEFZMIO4KSZIH662NHZPHQU4ZS56P6URJBUEMVRKLQLUHMECOYBU
+<img width="1847" height="928" alt="image" src="https://github.com/user-attachments/assets/305020e2-2ae0-4118-ba11-694d3383a64f" />
+
+
